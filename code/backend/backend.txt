@@ -1,0 +1,12 @@
+
+ ---------
+
+| Backend |
+ --------- 
+
+
+
+Nesta pasta serão colocados os ficheiros relativos a backend
+
+
+Este ficheiro pode ser usado para alguma nota importante quanto aos mesmos.

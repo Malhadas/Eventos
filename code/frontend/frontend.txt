@@ -1,8 +1,12 @@
 
  ----------
-| Frontend | 
+
+| Frontend |
  ---------- 
 
-Nesta pasta ser√£o colocados os ficheiros relativos a frontend.
+
+
+Nesta pasta ser„o colocados os ficheiros relativos a frontend.
+
 
 Este ficheiro pode ser usado para alguma nota importante quanto aos mesmos.

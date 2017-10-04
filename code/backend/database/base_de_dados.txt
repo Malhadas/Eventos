@@ -1,0 +1,12 @@
+
+ ---------------
+
+| Base de dados |
+ --------------- 
+
+
+
+Nesta pasta serão colocados os ficheiros relativos a base de dados
+
+
+Este ficheiro pode ser usado para alguma nota importante quanto aos mesmos.
